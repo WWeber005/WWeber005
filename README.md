@@ -1,37 +1,70 @@
-<h1>Hi, I'm William! <br/><a href="https://github.com/WWeber005">Programmer</a>
-<h2>👨‍💻 Computer Science student:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+# Hi, I'm William 👋
 
-<h2> 🤳 Connect with me:</h2>
+## 👨‍💻 Computer Science Student & Developer
 
-[linkedin]: 
+Passionate about software engineering, low-level programming, databases, and artificial intelligence. I enjoy building projects that combine problem solving, performance, and modern development practices.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Python
+- C / C++
+- Java
+- JavaScript
+- HTML / CSS
+- RISC-V Assembly
+
+### Areas of Interest
+- Artificial Intelligence & Deep Learning
+- Databases & Data Management
+- Algorithms & Data Structures
+- Low-Level Programming & Computer Architecture
+- Web Development
+
+---
+
+## 📌 Featured Projects
+
+### 🗄️ Database Project
+🔗 [DataBase](https://github.com/WWeber005/DataBase)
+
+A project focused on database design and management concepts, including data organization, querying, and backend logic implementation.
+
+**Technologies used:**
+- SQL
+- Java / Backend Development
+- Data Modeling
+
+---
+
+### 🧠 Deep Learning Project
+🔗 [deep_learning](https://github.com/WWeber005/deep_learning)
+
+A deep learning and AI-oriented project exploring neural networks, model training, and data analysis techniques.
+
+**Technologies used:**
+- Python
+- Machine Learning / Deep Learning
+- Data Processing
+
+---
+
+## 📚 Currently Learning
+
+- Advanced AI & Machine Learning concepts
+- Software architecture and optimization
+- Systems programming
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/WWeber005
+- LinkedIn: Coming soon
+
+---
+
+> Some additional projects cannot currently be published publicly for confidentiality and academic reasons.
