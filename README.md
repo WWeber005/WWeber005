@@ -60,11 +60,4 @@ A deep learning and AI-oriented project exploring neural networks, model trainin
 
 ---
 
-## 🤝 Connect With Me
-
-- GitHub: https://github.com/WWeber005
-- LinkedIn: Coming soon
-
----
-
 > Some additional projects cannot currently be published publicly for confidentiality and academic reasons.
