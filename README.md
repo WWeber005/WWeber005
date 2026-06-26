@@ -40,10 +40,10 @@ A project focused on database design and management concepts, including data org
 
 ---
 
-### 🧠 Deep Learning Project
+### 🧠 Deep Learning Assignments
 🔗 [deep_learning](https://github.com/WWeber005/deep_learning)
 
-A deep learning and AI-oriented project exploring neural networks, model training, and data analysis techniques.
+A deep learning and AI-oriented Assignments exploring neural networks, model training, and data analysis techniques.
 
 **Technologies used:**
 - Python
